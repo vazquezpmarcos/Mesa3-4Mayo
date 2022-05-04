@@ -1,5 +1,3 @@
 // hola buenas
-
-let hola = true
-
-let nombre = 'franco'
+// hla hol oho alhl
+// HOLA
